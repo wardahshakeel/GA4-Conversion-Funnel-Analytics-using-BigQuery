@@ -1,0 +1,12 @@
+# BigQuery / GCP
+*.json
+!package.json
+.bigqueryrc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
